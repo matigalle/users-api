@@ -32,7 +32,17 @@ Response body:
   "created": "Nov 16, 2021 12:51:43 PM",
   "lastLogin": "Nov 16, 2021 12:51:43 PM",
   "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqdWxpb0B0ZXN0...",
-  "isActive": true
+  "isActive": true,
+  "name": "Julio Gonzalez",
+  "email": "julio@testssw.cl",
+  "password": "a2asfGfdfdf4",
+  "phones": [
+    {
+      "number": 87650009,
+      "citycode": 7,
+      "contrycode": "25"
+    }
+  ]
 }
 ```
 
